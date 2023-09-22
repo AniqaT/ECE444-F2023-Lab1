@@ -51,4 +51,5 @@ def index():
 
 class NameForm(FlaskForm):
     name = StringField('What is your name?', validators=[DataRequired()])
+    email = StringField('What is your UofT Email address?', validators=[DataRequired()])
     submit = SubmitField('Submit')
