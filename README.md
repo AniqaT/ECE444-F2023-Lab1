@@ -3,5 +3,10 @@
 This repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 ## Activity 1
+<img width="751" alt="Flask Installed" src="https://github.com/AniqaT/ECE444-F2023-Lab1/assets/86853243/424f8ac1-f409-4963-bcf6-8ce5b45b0dbe">
 
-<img width="751" alt="Screen Shot 2023-09-21 at 2 09 58 PM" src="https://github.com/AniqaT/ECE444-F2023-Lab1/assets/86853243/1cd3aacf-938c-4a50-bcec-9355c1ae63b7">
+## Activity 2
+###Example 2-2
+<img width="338" alt="Example 2-2" src="https://github.com/AniqaT/ECE444-F2023-Lab1/assets/86853243/9781e6de-89f4-48b8-9856-0c74da6b65ac">
+
+
