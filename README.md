@@ -20,6 +20,10 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 ### Step 3
 <img width="1263" alt="4 3" src="https://github.com/AniqaT/ECE444-F2023-Lab1/assets/86853243/3bfeeb06-41e1-4c3d-b5cd-ffa8de34cb27">
 
+### Step 4 
+<img width="1263" alt="4 4" src="https://github.com/AniqaT/ECE444-F2023-Lab1/assets/86853243/ea3e3ed6-be20-4afb-bebf-3251e6a001b8">
+
+
 
 
 
